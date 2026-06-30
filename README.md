@@ -7,7 +7,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.3.1-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10.15-brightgreen)
 
-📄 **Paper:** [DFD-HR](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_DFD-HR_Generalizable_Deepfake_Detection_via_Hierarchical_Routing_Learning_CVPR_2026_paper.pdf) &nbsp;|&nbsp; 💾 **Checkpoints:** [Google Drive](https://drive.google.com/file/d/1ZZa0ZSOsam6KQ7YdAu5Uwkbkp0joqs4H/view?usp=drive_link)
+📄 **Paper:** [DFD-HR](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_DFD-HR_Generalizable_Deepfake_Detection_via_Hierarchical_Routing_Learning_CVPR_2026_paper.pdf) &nbsp;|&nbsp; 💾 **Checkpoints:** [Google Drive](https://drive.google.com/file/d/1E3C9IGBlep4JSd9IPbHTADsIEktlmHQE/view?usp=drive_link)
 
 > 🎉🎉🎉 **Our paper has been accepted by CVPR2026 🏆!**
 
@@ -70,7 +70,7 @@ sh install.sh
 
 ### 3. Download Checkpoints
 
-The checkpoint of **"CLIP-L14 + our DFD-HR"** *trained on FaceForensics++* is released on [Google Drive](https://drive.google.com/file/d/1ZZa0ZSOsam6KQ7YdAu5Uwkbkp0joqs4H/view?usp=drive_link).
+The checkpoint of **"CLIP-L14 + our DFD-HR"** *trained on FaceForensics++* is released on [Google Drive](https://drive.google.com/file/d/1E3C9IGBlep4JSd9IPbHTADsIEktlmHQE/view?usp=drive_link).
 
 ### 4. Training
 
